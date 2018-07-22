@@ -4,7 +4,7 @@ __license__ = ""
 Try Our Luck With 3 Option!
 
 Description: 
-This module functions returns return a lot of lucky games
+This module functions returns a lot of lucky games
 
 Options:
 Dice Roll
