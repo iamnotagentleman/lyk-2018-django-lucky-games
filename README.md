@@ -4,9 +4,11 @@
 </div>
 <div>
 <h2>Options</h2>
-<p>Dice Roll</p>
-<p>Head&Tail</p>
-<p>Rock&Paper&scissors</p>
+<ul>
+<li>Dice Roll</li>
+<li>Head&Tail</li>
+<li>Rock&Paper&scissors</li>
+  </ul>
 </div>
 <div>
 <h3>Simple Usage</h3>
