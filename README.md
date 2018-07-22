@@ -9,7 +9,7 @@
 <p>Rock&Paper&scissors</p>
 </div>
 <div>
-<h3>Simple Usage<h3>
+<h3>Simple Usage</h3>
 <p>o = olasilik()</p>
 <p>o.dice_roll() # For Dice Roll</p>
 <p>o.head_tail() # For Head Tail</p>
