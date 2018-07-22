@@ -10,8 +10,8 @@
 </div>
 <div>
 <h3>Simple Usage<h3>
-<h3>o = olasilik()</h3>
-<h3>o.dice_roll() # For Dice Roll</h3>
-<h3>o.head_tail() # For Head Tail</h3>
-<h3>o.rock_paper_scissors # for Rock&Paper&Scissors</h3>
+<p>o = olasilik()</p>
+<p>o.dice_roll() # For Dice Roll</p>
+<p>o.head_tail() # For Head Tail</p>
+<p>o.rock_paper_scissors # for Rock&Paper&Scissors</p>
   </div>
