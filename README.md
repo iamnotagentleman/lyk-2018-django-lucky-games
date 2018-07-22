@@ -14,6 +14,6 @@
 <h3>Simple Usage</h3>
 <p>o = olasilik()</p>
 <p>o.dice_roll() # For Dice Roll</p>
-<p>o.head_tail() # For Head Tail</p>
+<p>o.head_tail() # For Head Tail</p><br>
 <p>o.rock_paper_scissors # for Rock&Paper&Scissors</p>
   </div>
