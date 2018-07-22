@@ -2,7 +2,7 @@
 <h1>Description</h1>
 <p>This module functions returns a lot of lucky games</p>
 </div>
-<div>
+<div><br><br>
 <h2>Options</h2>
 <ul>
 <li>Dice Roll</li>
