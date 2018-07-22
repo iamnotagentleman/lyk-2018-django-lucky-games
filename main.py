@@ -1,5 +1,5 @@
 __author__ = "Linux Yaz Kampı Django Sınıfı"
-__license__ = ""
+__license__ = "GNU General Public License"
 """
 Try Our Luck With 3 Option!
 
