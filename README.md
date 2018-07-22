@@ -10,6 +10,7 @@
 <li>Rock&Paper&scissors</li>
   </ul>
 </div><br><br>
+
 <div>
 <h3>Simple Usage</h3>
 <p>o = olasilik()</p>
